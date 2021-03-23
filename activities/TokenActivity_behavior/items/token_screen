@@ -6,9 +6,7 @@
     "@id": "token_screen",
     "question": "Check the behavior(s) your child did:",
     "ui": {
-        "inputType": "radio",
-        "allow": [
-            "dontKnow"
+        "inputType": "radio"
         ]
     },
     "responseOptions": {
