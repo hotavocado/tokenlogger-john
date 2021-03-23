@@ -7,7 +7,6 @@
     "question": "Check the behavior(s) your child did:",
     "ui": {
         "inputType": "radio"
-        ]
     },
     "responseOptions": {
         "valueType": "xsd:token",
